@@ -1,2 +1,11 @@
 print ("Olá Mundo")
 print("Olá")
+print ("Olá Mundo")
+print("Olá")
+print ("Olá Mundo")
+print("Olá")
+print ("Olá Mundo")
+print("Olá")
+print ("Olá Mundo")
+print("Olá")
+
